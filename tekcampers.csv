@@ -1,0 +1,36 @@
+id,first_name,last_name,gender,education,Bootcamp
+29,Aaron,White,M,NULL,NULL
+1,Abigail,Swigert,F,Bachelors,NULL
+6,Adam,Rice,M,Bachelors,Coding Dojo
+8,Caleb,Waters,M,Associates,NULL
+24,Christian,Gonzalez,M,Some College,NULL
+30,Cody,Clark,M,Some College,Trilogy Education
+31,Devon,Brewster,M,Some College,NULL
+2,Gabe,Chavez,M,NULL,US Navy Bootcamp
+15,George,Torres,M,Some College,NULL
+32,Gottham,Katta,M,Bachelors,NULL
+4,Jessica,Ulysse,F,Bachelors,NULL
+33,John,Kol,M,NULL,NULL
+34,Jon,Bozarov,M,Bachelors,NULL
+16,Jose,Moreno,M,Bachelors,NULL
+12,Julian,Ladd,M,Some College,Coding Dojo
+35,Justin,Cheng,M,Some College,NULL
+11,Katherine,Kim,F,Bachelors,NULL
+14,Kevin,Ibanez,M,High School Diploma,SMU Coding Bootcamp
+36,Kevin,Keesee,M,High School Diploma,NULL
+23,Korey,Brooks,M,NULL,NULL
+7,Marcelo,Barbosa,M,Some College,Coding Dojo
+18,Mathew,Castiglione,M,Bachelors,NULL
+21,Mathew,Choat,M,Masters,NULL
+22,Michael,Kinney,M,NULL,NULL
+37,Monica,Howard,F,NULL,NULL
+3,Nancy,Golden,F,Masters,NULL
+10,Norita,Sieffert,F,Doctorate,NULL
+17,Phoenix,Shane,F,Associates,DevMountain
+5,Sabitha,Radhakrishnan,F,Bachelors,NULL
+27,Sarah,Bates,F,NULL,NULL
+38,Tyler,Clements,M,Bachelors,NULL
+13,Vani,Muppuru,F,NULL,NULL
+19,Victor,Betts,M,Some College,NULL
+28,Vimala,Murthy,F,Masters,NULL
+25,Zachary,Johnson,M,High School Diploma,DevMountain
